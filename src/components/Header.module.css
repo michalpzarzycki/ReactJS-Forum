@@ -1,0 +1,15 @@
+.mainDiv {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+
+}
+.btnSection {
+    width:50%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.logoSection {
+    width: 50%;
+}
